@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bq1028.employee",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "employee",
+    "packageName": "com.bq1028.employee",
+    "packageFolder": "com/bq1028/employee",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDVlNjExYmNlZTcyMDJmYTQ3ODhlM2U2MTVhNzQyM2QzYjc0NDk3YmY4NWU5ODA0YTUxZjVmYzEyOTg2ODA3MmZhODExOTYzNjc2OTc0ZDZhZGVlNGVkYWU0YzZlZTE5OTQ5Y2UxOGNmZTViNWY4YmNmOTc4ZjBlY2JhOWM3ZGM=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ]
+  }
+}
